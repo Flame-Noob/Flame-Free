@@ -16,7 +16,7 @@
 
 > pip install bs4
 
-> git clone https://github.com/FLAME-1x/Flame-Free.git
+> git clone https://github.com/Flame-Noob/Flame-Free.git
 
 > cd Flame-Free
 
